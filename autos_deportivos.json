@@ -1,0 +1,71 @@
+{
+    "autos": [
+        {
+            "id": 1,
+            "marca": "Ferrari",
+            "modelo": "SF90 Stradale",
+            "año": 2025,
+            "motor": {
+                "tipo": "Híbrido",
+                "potencia": 1000,
+                "cilindrada": 3990,
+                "turbo": "True"
+            },
+            "rendimiento": {
+                "velocidad_maxima": 340,
+                "aceleracion_0_100": 2.5,
+                "consumo_combustible": 12.5
+            },
+            "caracteristicas": {
+                "traccion": "AWD",
+                "transmision": "Automática de 8 velocidades",
+                "neumaticos": "Michelin Pilot Sport",
+                "peso": 1575,
+                "asientos": 2
+            },
+            "precio": 625000,
+            "color": "Rojo Ferrari",
+            "disponibilidad": "En producción",
+            "fecha_lanzamiento": "2025-06-01",
+            "proveedor": {
+                "nombre": "Ferrari S.p.A.",
+                "pais": "Italia",
+                "contacto": "contacto@ferrari.com"
+            }
+        },
+        {
+            "id": 2,
+            "marca": "Porsche",
+            "modelo": "911 Turbo S",
+            "año": 2025,
+            "motor": {
+                "tipo": "Gasolina",
+                "potencia": 640,
+                "cilindrada": 3800,
+                "turbo": "True"
+            },
+            "rendimiento": {
+                "velocidad_maxima": 330,
+                "aceleracion_0_100": 2.7,
+                "consumo_combustible": 10.8
+            },
+            "caracteristicas": {
+                "traccion": "AWD",
+                "transmision": "Automática de 8 velocidades",
+                "neumaticos": "Pirelli P-Zero",
+                "peso": 1550,
+                "asientos": 4
+            },
+            "precio": 175000,
+            "color": "Negro Mate",
+            "disponibilidad": "Disponible",
+            "fecha_lanzamiento": "2025-03-15",
+            "proveedor": {
+                "nombre": "Porsche AG",
+                "pais": "Alemania",
+                "contacto": "contacto@porsche.com"
+            }
+        }
+        
+    ]
+}
